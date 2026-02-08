@@ -2,7 +2,7 @@
 
 **Author:** Abrham Assefa
 **Serial No.:** VR548223
-**Course:** HCI (Human Computer Interaction)
+**Course:** Knowledge Representation
 **Date:** February 8, 2026
 
 
@@ -123,4 +123,4 @@ To wrap things up, this project effectively maps out the core elements of the lo
 
 ---
 **Appendix: OWL Source Code**
-The full OWL 2.0 source code is attached in the file `transportation_ontology.owl`.
+The full OWL 2.0 source code is attached in the file transportation_ontology.owl.
